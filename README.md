@@ -18,6 +18,9 @@ This repository contains four projects:
   - DELETE /courses/{id}
 - Default port: 8081
 - Configure MySQL settings
+### 📹 Demo Video
+[Watch the demo](https://drive.google.com/file/d/1aVjk94_p7I_ixJ-sNQJxGWdF_B20oGIT/view?usp=drive_link)
+
 
 ### 2. student-service
 - Document: Student(registrationNumber, fullName, address, contact, email)
@@ -50,3 +53,9 @@ This repository contains four projects:
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
