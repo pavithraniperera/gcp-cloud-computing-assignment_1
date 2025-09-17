@@ -1,4 +1,4 @@
-# Cloud Enabled Deployment In Action with AWS
+# Cloud Enabled Deployment In Action with GCP
 
 This repository contains four projects:
 
