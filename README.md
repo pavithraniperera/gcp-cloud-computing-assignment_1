@@ -59,3 +59,10 @@ This repository contains four projects:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Student Information
+
+- **Name:** Pavithrani Perera  
+- **Email:** pererapavithrani02@gmail.com 
+- **Student Number:**2301671041
+
